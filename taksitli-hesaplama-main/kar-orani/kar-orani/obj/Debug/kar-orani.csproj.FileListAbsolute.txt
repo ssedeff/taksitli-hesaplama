@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\kar-orani\kar-orani\bin\Debug\kar-orani.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\kar-orani\kar-orani\bin\Debug\kar-orani.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\kar-orani\kar-orani\bin\Debug\kar-orani.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\kar-orani\kar-orani\obj\Debug\kar-orani.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\kar-orani\kar-orani\obj\Debug\kar-orani.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\kar-orani\kar-orani\obj\Debug\kar_orani.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\kar-orani\kar-orani\obj\Debug\kar_orani.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\kar-orani\kar-orani\obj\Debug\kar-orani.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\kar-orani\kar-orani\obj\Debug\kar-orani.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\kar-orani\kar-orani\obj\Debug\kar-orani.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\kar-orani\kar-orani\obj\Debug\kar-orani.pdb
